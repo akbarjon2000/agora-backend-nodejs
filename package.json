@@ -1,0 +1,28 @@
+{
+  "name": "agora-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akbarjon2000/agora-backend-nodejs.git"
+  },
+  "keywords": [
+    "agora-web-rtc"
+  ],
+  "author": "Akbarjon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akbarjon2000/agora-backend-nodejs/issues"
+  },
+  "homepage": "https://github.com/akbarjon2000/agora-backend-nodejs#readme",
+  "dependencies": {
+    "agora-access-token": "^2.0.4",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1"
+  }
+}
